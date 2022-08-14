@@ -7,7 +7,7 @@ import headerBar from '../constants/headerBar';
 
 // screen
 import HomeScreen from '../pages/home';
-import GraphScreen from '../pages/graph';
+import GraphScreen from '../pages/graph/Graph';
 
 const Stack = createNativeStackNavigator();
 
